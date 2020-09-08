@@ -15,18 +15,18 @@ Its very cruical steps for making decisions about the data.for this several type
 * 3 Outcomes.
 from the differnt plots some interesting insights of data are found.from this insights it makes clear situation for taking any further decesion.
   ### Google ads  
-  1 it is found that are we increasing the frequency of impressions more the time user spend for it.but is valid upto 600 impressions beyond which it becomes annoying     thing for the user.
+  1. it is found that are we increasing the frequency of impressions more the time user spend for it.but is valid upto 600 impressions beyond which it becomes annoying     thing for the user.
   
-  2 Maximum number of ads shown to user are "brand" type but users spend more time in "generic" type ads.
+  2. Maximum number of ads shown to user are "brand" type but users spend more time in "generic" type ads.
   
-  3 the people between 18-24 age group are very active users. they spends lot of time in watching ads. after that 25-34 age group is also highly active user group. 
+  3. the people between 18-24 age group are very active users. they spends lot of time in watching ads. after that 25-34 age group is also highly active user group. 
 
   ### Facebook ads
-  1 it is find that as the impressions are increases users spends more time in it.
+  1. it is find that as the impressions are increases users spends more time in it.
   
-  2 type 1-audience spends maximum time in ads.
+  2. type 1-audience spends maximum time in ads.
   
-  3 image ads attracts the maximum users.users spends more time in image ads as compare to carousal ads.
+  3. image ads attracts the maximum users.users spends more time in image ads as compare to carousal ads.
 
 # Assignment -2.
 This assignment contains SKU sales data.
