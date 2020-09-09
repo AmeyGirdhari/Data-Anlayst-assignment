@@ -19,7 +19,9 @@ from the differnt plots some interesting insights of data are found.from this in
   
   2. Maximum number of ads shown to user are "brand" type but users spend more time in "generic" type ads.
   
-  3. the people between 18-24 age group are very active users. they spends lot of time in watching ads. after that 25-34 age group is also highly active user group. 
+  3. the people between 18-24 age group are very active users. they spends lot of time in watching ads. after that 25-34 age group is also highly active user group.
+  
+  4. from the clustering it shows that the age group with undtermined tag is having similar characteristics with 25-34 age group. so people present in this group also have their age betewwen 25-34.
 
   ### Facebook ads
   1. it is find that as the impressions are increases users spends more time in it.
